@@ -6,6 +6,15 @@ MAPS stands for "Medical Assistant Patient Support" is an application that is co
 
 THIS APPLICATION WAS DEVELOPED AS A PROOF OF CONCEPT. THIS APPLICATION SHOULDN’T BE USED WITHOUT MEDICAL EXPERTS’ APPROVAL.
 
+# Features
+
+- Adding a doctor
+- Deleting a doctor
+- Chatting with doctor
+- View sensor values AM and PM
+- User’s location
+- View doctor’s notes and prescriptions
+
 ## Getting Started
 
 1)	Create a Firebase project
